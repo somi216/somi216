@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **somi216/somi216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+yolo 시스템을 활용한 졸음운전 감지시스템
